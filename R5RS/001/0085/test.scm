@@ -1,0 +1,1 @@
+(exit (pair? '(a . b)))

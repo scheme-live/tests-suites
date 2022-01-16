@@ -1,0 +1,1 @@
+(exit (length (string-length "")))

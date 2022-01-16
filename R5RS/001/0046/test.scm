@@ -1,0 +1,1 @@
+(exit (equal? "scheme" "scheme"))

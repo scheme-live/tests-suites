@@ -1,0 +1,1 @@
+(exit (not (procedure? 'car)))

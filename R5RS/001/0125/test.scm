@@ -1,0 +1,1 @@
+(exit (symbol? 'nil))
